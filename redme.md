@@ -16,15 +16,19 @@ Il software stampa prima la parola più corta, poi la parola più lunga.
 5. imposto una istruzione condizionale mettendo in correlazione le parole e nel caso la prima parola sia più corta metto il valore vero:
 6. mando a schermo prima la parola più corta e poi quella più lunga.
 
+##### Fine.
+
 ### JSnack 3:
 Il software deve chiedere per 10 volte all’utente di inserire un numero.
 Il programma stampa la somma di tutti i numeri inseriti.
 
 #### Svolgimento:
-1. dichiarto var di un arrey vuoto dove inserire i valori;
-2. creo una istrizione di iterazione con dentro un prompt che chede all'utente di inserire un numero e li pushero all'nterno dell'arrey;
+1. dichiarto var con valore 0 dove inserire i valori;
+2. creo una istrizione di iterazione con dentro un prompt che chede all'utente di inserire un numero;
 3. trasformo la stringa in numero;
-4. faccio la somma dei numri
+4. faccio la somma dei numri;
 5. stampo il risultato della somma.
+
+##### Fine.
 
 
