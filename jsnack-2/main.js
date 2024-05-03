@@ -23,11 +23,10 @@ let trovaParola = false;
 for (let i = 0; i<parole.length; i++){
     if (paroleIn1 > paroleIn2){
         trovaParola = true;
-        
-        
-    } else if (paroleIn1 < paroleIn2){
-        
+           
+    } 
 
-    }
-    console.log(trovaParola ? `La parola piu lunga è ${paroleIn1}` : `La parola piu lunga è ${paroleIn2}`);
+
+    
+    console.log(trovaParola ? `La parola piu lunga è ${paroleIn2}` : `La parola piu lunga è ${paroleIn1}`);
 }
