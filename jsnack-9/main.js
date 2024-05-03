@@ -21,8 +21,8 @@ for (;;) {
 
 // faccio la somma delle cifre:
 for (let i = 0; i<numeroIn.length; i++){   
-        somma += parseInt(numeroIn[i]);
-        console.log({somma});        
+    somma += parseInt(numeroIn[i]);
+    console.log({somma});         
 }
 
 alert(`La somma delle 4 cifre da te inserite è ${somma}`);
