@@ -54,17 +54,21 @@ if (numeroIn[i] % 2 !== 0){
 ##### Fine
 
 ## JSnack 8:
-Chiedi un numero di 4 cifre all’utente
+Chiedi un numero di 4 cifre all’utente.
 Calcola la somma di tutte le cifre che compongono il numero.
-Stampa il risultato in console
+Stampa il risultato in console.
 
 #### Svolgimento:
+1. chiedo all'utente di inserire un numero di 4 cifre tramite un prompt;
+2. lascio il risultato in stringa (senza trasformarlo in numero);
+3. faccio una istruzione di iterazione che cicli per la lunghezza della stringa (cioè 4);
+4. faccio la somma per poi trasformare la stringa in numero.
 
 
 ##### Fine
 ## JSnack 9:
 Calcola la somma e la media dei primi 10 numeri.
-Stampa i risultati on console
+Stampa i risultati in console.
 
 #### Svolgimento:
 
