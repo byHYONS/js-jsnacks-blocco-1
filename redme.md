@@ -11,6 +11,8 @@ Il software stampa prima la parola più corta, poi la parola più lunga.
 ### Svolgimento:
 1. dichiaro var con array vuoto;
 2. attraverso un prompt do la possibilità di inserire due parole all'utente;
-3. confronto le parole tramite `nomeVar.length`;
-4. mando a schermo prima la parola più corta e poi quella più lunga.
+3. dichiaro var `trovaParole` con valore falso;
+4. attraverso il ciclo for confronto le parole;
+5. imposto una istruzione condizionale mettendo in correlazione le parole e nel caso la prima parola sia più corta metto il valore vero:
+6. mando a schermo prima la parola più corta e poi quella più lunga.
 
