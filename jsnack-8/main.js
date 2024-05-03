@@ -27,5 +27,7 @@ for (let i = 0; i<numeroIn.length; i++){
     } 
 }
 
+alert(`La somma delle 4 cifre da te inserite è ${somma}`);
+
 
  // FINE
