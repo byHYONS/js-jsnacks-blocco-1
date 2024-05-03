@@ -4,7 +4,7 @@
 >
 > Nome repo: js-jsnacks-blocco-1
 
-### JSnack 2:
+## JSnack 2:
 L’utente inserisce due parole in successione, con due prompt.
 Il software stampa prima la parola più corta, poi la parola più lunga.
 
@@ -18,7 +18,7 @@ Il software stampa prima la parola più corta, poi la parola più lunga.
 
 ##### Fine.
 
-### JSnack 3:
+## JSnack 3:
 Il software deve chiedere per 10 volte all’utente di inserire un numero.
 Il programma stampa la somma di tutti i numeri inseriti.
 
@@ -30,5 +30,45 @@ Il programma stampa la somma di tutti i numeri inseriti.
 5. stampo il risultato della somma.
 
 ##### Fine.
+
+## JSnack 5:
+Crea un array vuoto.
+Chiedi per 6 volte all’utente di inserire un numero,
+Se è dispari inseriscilo nell’array.
+Stampa in console l'array risultante.
+
+#### Svolgimento:
+1. dichiaro var con arrey vuoto;
+2. creo una istruzione di iterazione di 6 cicli nel quale tramite `prompt` chiedo all'utente di inserire dei numeri che salveremo sull'arrey con:
+```
+ numeroIn = Numer(prompt());
+```
+3. tramite istruzione condizionale dico al programma che se il numero inserito è dispari di salvarlo nell'arrey:
+```
+if (numeroIn[i] % 2 !== 0){
+    nomeVar.push(numeroIn);
+}
+```
+4. stampo in console i numeri all'interno dell'arrey.
+
+##### Fine
+
+## JSnack 8:
+Chiedi un numero di 4 cifre all’utente
+Calcola la somma di tutte le cifre che compongono il numero.
+Stampa il risultato in console
+
+#### Svolgimento:
+
+
+##### Fine
+## JSnack 9:
+Calcola la somma e la media dei primi 10 numeri.
+Stampa i risultati on console
+
+#### Svolgimento:
+
+
+##### Fine
 
 
