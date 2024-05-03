@@ -64,15 +64,18 @@ Stampa il risultato in console.
 3. faccio una istruzione di iterazione che cicli per la lunghezza della stringa (cioè 4);
 4. faccio la somma per poi trasformare la stringa in numero.
 
-
 ##### Fine
+
 ## JSnack 9:
 Calcola la somma e la media dei primi 10 numeri.
 Stampa i risultati in console.
 
 #### Svolgimento:
-
+1. chiedo all'utente di inserire 10 numeri con un prompt servendomi di una istruzione di iterazione che cicli, appunto, per 10 volte;
+2. calcolo la somma dei numeri inseriti;
+3. colcolo la media dei numeri inseriti;
+4. stampo in console i risultati.
 
 ##### Fine
 
-
+#### FINE
