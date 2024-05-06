@@ -13,7 +13,9 @@ let somma = 0;
 for (;;) {
     numeroIn = prompt('Inserisci un numero di 4 cifre');
     if (numeroIn.length === 4){
-        break
+        if (!isNaN(Number(numeroIn))){
+            break
+        }
     } else {
         console.log(`Hai inserito un numero superiore o inferiore a 4 cifre. Inseriscilo nuovamente`);        
     }
